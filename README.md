@@ -1,7 +1,5 @@
 # Nasa API Implementation 🚀
-
-![nasa-api-logo](https://github.com/varungr-dev/Nasa-API-Implementation/assets/144204974/47a63e0c-1268-4527-a1bd-7dd854171c27)
-
+Want to see how it looks the type....
 <hr style="width:75%">
 
 ## Introduction
@@ -56,43 +54,6 @@ For deployment, the project leverages **Docker and AWS Elastic Beanstalk**, show
 
 **Testing:-**
 Conducts **JUnit and Mockito and Integration Tests with Test Containers** on all layers of the project, ensuring reliability and robustness.
-
-<hr style="width:75%">
-
-
-## Demo
-[**Try it out** 🌎](http://nasa-webapp-env.eba-bpm6gg2n.ap-south-1.elasticbeanstalk.com/nasa/home-page)
-
-#### Home-Page
-![home](https://github.com/varungr-dev/Nasa-API-Implementation/assets/144204974/65528a81-2f75-40b0-8881-11a1c0e3092d)
-
-#### Index-Page
-![index](https://github.com/varungr-dev/Nasa-API-Implementation/assets/144204974/55bff53e-f749-48f7-a85f-00fdb2d5287d)
-
-#### Astronomy Picture Of The Day( A P O D )
-![apod](https://github.com/varungr-dev/Nasa-API-Implementation/assets/144204974/fdc5fb92-59f0-487e-8e65-d784121a54d6)
-
-#### Mars Rover Page
-![rover](https://github.com/varungr-dev/Nasa-API-Implementation/assets/144204974/15723c32-57bc-4bb1-a2bf-e4344f3b8e55)
-
-#### Admin Page
-![admin](https://github.com/varungr-dev/Nasa-API-Implementation/assets/144204974/144c2bf8-4664-411f-9980-39677df0c6c9)
-
-#### Swagger Documentation Page
-![swagger](https://github.com/varungr-dev/Nasa-API-Implementation/assets/144204974/572d17a7-a77f-4ab4-acfb-ea84e4bf660e)
-
-#### Logout Page
-![logout](https://github.com/varungr-dev/Nasa-API-Implementation/assets/144204974/92e8dc5a-bd8b-4532-9831-131509ed4629)
-
-<hr style="width:75%">
-
-## Getting Started
-
-To get started with the Nasa API Implementation project, follow these steps:--
-
-FOR STEPS CONTACT:- varungrvv@gmail.com :)
-
-<hr style="width:75%">
 
 ## SAMPLE Querying Through Endpoints
 Mars Rover Endpoint:--
